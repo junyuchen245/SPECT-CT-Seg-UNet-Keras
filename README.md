@@ -11,9 +11,9 @@ Dice similarity coefficient: 0.958 for lesion, 0.963 for bone
 
 ### Testing Set (PET/CT)
 ![](https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/sample_img/testing.png)
-Resulting an undesired results with unseen patient PET/CT images.
+Resulting an undesired result with the unseen patient PET/CT images.
 
-## Example Feature Maps
+## Example Feature Maps of the Testing Set
 ![](https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/features/conv_ct_256.png)
 CT encoding stage, 4th layer.
 
