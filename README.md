@@ -14,6 +14,7 @@ Dice similarity coefficient: 0.958 for lesion, 0.963 for bone
 Resulting an undesired result with the unseen patient PET/CT images.
 
 ## Example Feature Maps of the Testing Set
+Redundant feature maps were observed, meaning that we could reduce the number of filters/parameters.
 ### CT encoding stage, 4th layer:
 <img src="https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/features/conv_ct_256.png" width="600"/>
 
