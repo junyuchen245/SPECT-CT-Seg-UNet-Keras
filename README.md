@@ -6,7 +6,7 @@
 Trainable Parameters: 15,317,115
 ## Example Segmentation Results
 ### Validation Set (SPECT/CT simulations)
-![](https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/sample_img/validation.png)
+![](https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/sample_img/validation.png | width=50)
 Dice similarity coefficient: 0.958 for lesion, 0.963 for bone
 
 ### Testing Set (PET/CT)
