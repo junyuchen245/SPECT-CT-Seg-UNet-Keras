@@ -1,5 +1,6 @@
 # Bone & Bone Lesion Segmentation in SPECT/CT Using U-Net
 This is an implementation of the bone and bone lesion segmentation, multi-modal U-Net in Nuclear Medicine Imaging, the network was trained on the simulated SPECT/Atten. Map images and tested on the patient PET/CT images.
+#### Main script: boneSegUnet/run/train_UNet.py
 ## Network Architecture
 ![](https://github.com/junyuchen245/SPECT_CT_UNet/blob/master/UNET.png)
 
