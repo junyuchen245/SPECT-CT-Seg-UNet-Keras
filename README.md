@@ -3,7 +3,7 @@ This is an implementation of the bone and bone lesion segmentation, multi-modal 
 ## Network Architecture
 ![](https://github.com/junyuchen245/SPECT_CT_UNet/blob/master/UNET.png)
 
-Trainable Parameters: 15,317,115
+Trainable Parameters: 15,317,115.
 ## Example Segmentation Results
 ### Validation Set (SPECT/CT simulations)
 <img src="https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/sample_img/validation.png" width="400"/>
