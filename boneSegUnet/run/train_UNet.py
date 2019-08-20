@@ -278,7 +278,7 @@ for epoch in range(n_epochs):
         # Calculate dice coefficient for batch test images
         dice_epoch.append(dice_coef(seg, label, 3))
         n_batches += 1
-        print('training batch num: ' + str(n_batches))
+        print('Validation batch num: ' + str(n_batches))
         if n_batches == 100: #int(len(image_valid) / batch_size) + int(len(image_valid) % batch_size > 0):
             break
 
