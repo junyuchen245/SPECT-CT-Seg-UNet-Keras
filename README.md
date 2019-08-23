@@ -23,3 +23,5 @@ Redundant feature maps were observed, meaning that we could reduce the number of
 ### SPECT encoding stage, 4th layer:
 <img src="https://github.com/junyuchen245/SPECT_CT_Seg_UNet/blob/master/features/conv_spect_256.png" width="600"/>
 
+### <a href="https://junyuchen245.github.io"> About Myself</a>
+
